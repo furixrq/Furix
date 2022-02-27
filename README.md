@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Furix</h1>
 
-<img src="https://media.discordapp.net/attachments/735974239022219375/947508354220187668/8.gif">
+<img src="https://media.discordapp.net/attachments/735974239022219375/947512957254901790/RDT_20220129_1009303511661115842693116_1.jpg">
 
 ```py
 
@@ -33,8 +33,6 @@ if __name__ == '__main__':
 ```go
 
 📩・Want to reach? Add kvn#1324 on discord
-
-🌐・Website: Soon
 
 ```
 
