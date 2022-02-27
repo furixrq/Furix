@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Furix</h1>
 <img src="https://media.discordapp.net/attachments/750576681281912873/919483044946145340/image0-28.gif">
 
-<img src="https://media.discordapp.net/attachments/735974239022219375/947512957254901790/RDT_20220129_1009303511661115842693116_1.jpg">
+<img src="https://media.discordapp.net/attachments/736335636394541076/947519615070773258/8.gif">
 
-<img src="https://media.discordapp.net/attachments/750576681281912873/919483044946145340/image0-28.gif">
+<img src="https://media.discordapp.net/attachments/750576681281912873/919577111264641073/image0-11.gif">
 
 ```py
 
