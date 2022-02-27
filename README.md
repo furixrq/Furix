@@ -38,5 +38,5 @@ if __name__ == '__main__':
 
 ```
 
-<img align="center" src="https://discord.c99.nl/widget/theme-3/722485544625504368.png"/>
+<img align="center" src="https://discord.c99.nl/widget/theme-2/722485544625504368.png"/>
 
