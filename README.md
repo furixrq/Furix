@@ -6,8 +6,7 @@
 <img src="https://media.discordapp.net/attachments/750576681281912873/919577111264641073/image0-11.gif">
 
 
-
-class Furix:
+```class Furix:
 
     def __init__(self):
 
@@ -29,8 +28,7 @@ class Furix:
 
 if __name__ == '__main__':
 
-    me = Furix() 
-```
+    me = Furix() ```
 
 
 <img src="https://media.discordapp.net/attachments/750576681281912873/919577111264641073/image0-11.gif">
