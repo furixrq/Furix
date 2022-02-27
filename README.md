@@ -14,7 +14,7 @@
 
 ```go
 
-📩・Want to reach? Add kvn#1324 on discord
+📩・Want to reach? Add furix#1324 on discord
 
 ```
 
