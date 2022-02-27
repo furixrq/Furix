@@ -6,8 +6,31 @@
 <img src="https://media.discordapp.net/attachments/750576681281912873/919577111264641073/image0-11.gif">
 
 
-<video controls src="1621888668063.mp4"> = width='500'
 
+class Furix:
+
+    def __init__(self):
+
+        self.username = 'Furix'
+
+        self.name = 'Smk'
+
+        self.discord = 'kvn#1324'
+
+        self.code = {
+
+            'Languages': ['Javascript', 'Python', 'Golang', 'C#', 'C++']
+
+            'tools': ['GIT', 'GitHub', 'Visual Studio'],
+
+            'misc': ['Firebase', 'GNU/Linux']
+
+        }
+
+if __name__ == '__main__':
+
+    me = Furix() 
+```
 
 
 <img src="https://media.discordapp.net/attachments/750576681281912873/919577111264641073/image0-11.gif">
