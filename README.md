@@ -6,7 +6,7 @@
 <img src="https://media.discordapp.net/attachments/750576681281912873/919577111264641073/image0-11.gif">
 
 
-<video controls src="Racing.mp4">
+<video controls src="Racing.mp4"> = width='500'
 
 
 
