@@ -14,7 +14,7 @@
 
 ```go
 
-<img src="https://cdn.discordapp.com/emojis/942538232401367070.png?v=1&size=64">・Want to reach? Add furix#1324 on discord
+・Want to reach? Add furix#1324 on discord
 
 ```
 
