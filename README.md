@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furix</h1>
+<img src="https://media.discordapp.net/attachments/750576681281912873/939994574577860618/image0-1-1.gif">
 
 <img src="https://media.discordapp.net/attachments/735974239022219375/947512957254901790/RDT_20220129_1009303511661115842693116_1.jpg">
 
