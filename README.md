@@ -6,7 +6,9 @@
 <img src="https://media.discordapp.net/attachments/750576681281912873/919577111264641073/image0-11.gif">
 
 
-<img src='https://media.discordapp.net/attachments/750576652290883584/947566409993564220/bannerstory_instagram.gif' width='27'> ╰┈┈➤ [Instagram](https://)
+<img src='https://media.discordapp.net/attachments/750576652290883584/947566409993564220/bannerstory_instagram.gif' width='27'> ╰┈➤ [Instagram](https://instagram.com/furix.js)
+
+<img src='https://media.discordapp.net/attachments/750576652290883584/947569948010627092/22moon.gif' width='27'> ╰┈➤ [New Project - soon](https://soon)
 
 <img src="https://media.discordapp.net/attachments/750576681281912873/919577111264641073/image0-11.gif">
 
