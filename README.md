@@ -6,7 +6,8 @@
 <img src="https://media.discordapp.net/attachments/750576681281912873/919577111264641073/image0-11.gif">
 
 
-<img src='https://media.discordapp.net/attachments/750576652290883584/947566409993564220/bannerstory_instagram.gif' width='22'> [Instagram](https://instagram.com/furix.js?utm_medium=copy_link)
+<img src='https://media.discordapp.net/attachments/750576652290883584/947566409993564220/bannerstory_instagram.gif' width='22'>
+╰┈┈➤ [Instagram](https://instagram.com/furix.js?utm_medium=copy_link)
 
 <img src="https://media.discordapp.net/attachments/750576681281912873/919577111264641073/image0-11.gif">
 
