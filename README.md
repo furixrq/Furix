@@ -5,33 +5,11 @@
 
 <img src="https://media.discordapp.net/attachments/750576681281912873/919577111264641073/image0-11.gif">
 
-```py
 
-class Furix:
+<img src="https://cdn.discordapp.com/attachments/947027792657281025/947559864568274954/trim.C79B552B-B132-4363-B73C-2EA5E507190A-1.mov">
 
-    def __init__(self):
 
-        self.username = 'Furix'
 
-        self.name = 'Smk'
-
-        self.discord = 'kvn#1324'
-
-        self.code = {
-
-            'Languages': ['Javascript', 'Python', 'Golang', 'C#', 'C++']
-
-            'tools': ['GIT', 'GitHub', 'Visual Studio'],
-
-            'misc': ['Firebase', 'GNU/Linux']
-
-        }
-
-if __name__ == '__main__':
-
-    me = Furix()
-
-```
 <img src="https://media.discordapp.net/attachments/750576681281912873/919577111264641073/image0-11.gif">
 
 ```go
